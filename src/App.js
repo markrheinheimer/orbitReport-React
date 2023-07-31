@@ -1,6 +1,5 @@
-import Buttons from "./components/Buttons";
-import Table from "./components/Table";
-
+import Buttons from './components/Buttons';
+import Table from './components/Table';
 
 function App() {
   return (
@@ -12,3 +11,4 @@ function App() {
 }
 
 export default App;
+a;
