@@ -1,5 +1,3 @@
-import styling from './styling.css';
-
 const Table = ({ sat }) => {
   const eachSat = Array.isArray(sat) ? sat : [];
   return (
